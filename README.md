@@ -1,5 +1,5 @@
 # MindEase
-## MindEase is a breakthrough iOS mobile application designed to bridge the gap between individuals seeking mental health support and professionals providing these services. Developed using SwiftUI, Firebase, MapKit, Express, and Stripe payments, the app addresses major barriers in mental health care such as immediate availability, compatibility between users and doctors, and stringent privacy standards HIPAA.
+## _MindEase is a breakthrough iOS mobile application designed to bridge the gap between individuals seeking mental health support and professionals providing these services. Developed using SwiftUI, Firebase, MapKit, Express, and Stripe payments, the app addresses major barriers in mental health care such as immediate availability, compatibility between users and doctors, and stringent privacy standards HIPAA._
 
 
 ## Step 1: 
