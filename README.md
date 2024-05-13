@@ -9,3 +9,8 @@ Add Firebase to your app by registering on Firebase and selecting the "add app" 
 Download the config file "GoogleSerive-Info.plist" and add the SDK
 ## Step 3: 
 Link Stripe payment
+
+## App In Action
+
+https://github.com/MeghanaNandaKumar/MindEase/assets/123039710/d07904df-52b3-4595-83f4-61bca3bd7361
+
